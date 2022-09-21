@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir este site em vários dispositivos ou simplesmente aumente e diminua o tamanho do seu navegador. <br><br>
+        
+        </p>
+
+    <picture>
+        <source media="(max-width: 750px )" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px )" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem flexível">
+
+    </picture>
+
+    <h1>Reproduzindo Audio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>
+    <audio src="midia/Road Trip - Slynk.mp3" controls>Road Trip</audio>
+    <br>
+    <audio preload="metadata" controls autoplay loop>
+        <source src="midia/Two Moons - Bobby Richards.mp3" type="audio/mpeg">
+        <source src="midia/Two Moons - Bobby Richards.ogg" type="audio/ogg">
+        <source src="midia/Two Moons - Bobby Richards.wav" type="audio/wav">
+        <p>infelizmente seu navegador não consegue reproduzir áudio. <a href="midia/Two Moons - Bobby Richards.mp3" download="two moons.mp3">Clique aqui para baixar o MP3</a></p>
+    </audio>
+
+
+</body>
+</html>
