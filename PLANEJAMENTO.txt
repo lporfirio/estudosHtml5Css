@@ -92,3 +92,4 @@ quinta 22/09
 > cap 18, aula 09
 > cap 18, aula 10
 > cap 19, aula 01 
+> cap 19, aula 02
