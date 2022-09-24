@@ -16,17 +16,17 @@ domingo 25/09
 > cap 19, aula 01 -  ok
 
 segunda 26/09
-> cap 19, aula 02
-> cap 19, aula 03
-> cap 19, aula 04
+> cap 19, aula 02 - ok 
+> cap 19, aula 03 - ok
+> cap 19, aula 04 - ok
 
 terça 27/09
-> cap 19, aula 05
-> cap 19, aula 06
-> cap 19, aula 07
+> cap 19, aula 05 - ok 
+> cap 19, aula 06 - ok
+> cap 19, aula 07 - ok 
 
 quarta 28/09
-> cap 20, aula 01
+> cap 20, aula 01 - 
 > cap 20, aula 02
 > cap 20, aula 03
 
@@ -93,3 +93,13 @@ quinta 22/09
 > cap 18, aula 10
 > cap 19, aula 01 
 > cap 19, aula 02
+
+sexta 23/09
+> cap 19, aula 03
+> cap 19, aula 04
+> cap 19, aula 05
+
+sábado 24/09
+> cap 19, aula 06 
+> cap 19, aula 07
+> cap 20, aula 01
