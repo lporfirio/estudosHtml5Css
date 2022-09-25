@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: 'kalam' ;
-    src: url('/html-css/desafio11/fontes/Kalam-Regular.ttf');
+    src: url('../fontes/Kalam-Regular.ttf');
 }
 
 @font-face {
     font-family: 'passion';
-    src: url('/html-css/desafio11/fontes/PassionOne-Regular.ttf');
+    src: url('../fontes/PassionOne-Regular.ttf');
 }
 
 :root {
