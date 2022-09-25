@@ -1,0 +1,110 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: 'kalam' ;
+    src: url('/html-css/desafio11/fontes/Kalam-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'passion';
+    src: url('/html-css/desafio11/fontes/PassionOne-Regular.ttf');
+}
+
+:root {
+    --fonte1: 'Times New Roman', Times, serif;
+    --fonte2: 'kalam', Times, serif;
+    --fonte3: 'passion', Times, serif;
+}
+
+html, body {
+    min-height: 100vh;
+    background-color: rgb(169, 197, 197);
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    padding-top: 50px;
+    /*text-transform: uppercase;*/
+    font-variant: small-caps;
+    font-family: var(--fonte3);
+    font-size: 7vw;
+    font-weight: 100;
+    
+}
+
+header p {
+    padding-bottom: 50px;
+}
+
+a { 
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    font-family: var(--fonte2);
+    font-size: 3vh;
+}
+
+section.normal {
+    background-color: white;
+
+}
+
+section.imagem {
+    background-color: transparent;
+    color: white;
+    box-shadow: inset 3px 10px 12px rgba(0, 0, 0, 0.438);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section.imagem p {
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.596);
+    padding: 10px;
+    text-shadow: 1px 3px 5px rgba(0, 0, 0, 0.5);
+    
+
+}
+
+section#img01 {
+    background-image: url('/html-css/desafio11/imagens/background001.jpg');
+    background-position: right center;
+    
+}
+
+section#img02 {
+    background-image: url('/html-css/desafio11/imagens/background002.jpg');
+    
+}
+
+section > p {
+    padding-bottom: 2em;
+} 
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
