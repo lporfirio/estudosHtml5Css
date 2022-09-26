@@ -37,9 +37,9 @@ quinta 29/09
 > cap 20, aula 07 - ok
 
 sexta 30/09
-> cap 21, aula 01
-> cap 21, aula 02
-> cap 21, aula 03
+> cap 21, aula 01 - ok
+> cap 21, aula 02 - ok
+> cap 21, aula 03 - ok
 
 sábado 01/10
 > cap 21, aula 04
@@ -111,3 +111,8 @@ domingo 25/09
 > cap 20, aula 05 - ok
 > cap 20, aula 06 - ok
 > cap 20, aula 07 - ok
+
+segunda 26/09
+> cap 21, aula 01 - ok
+> cap 21, aula 02 - ok
+> cap 21, aula 03 - ok
