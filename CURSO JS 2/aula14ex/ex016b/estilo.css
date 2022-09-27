@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(14, 71, 54);
+    color: aliceblue;
+    font: normal 15pt Calibri;
+}
+
+header {
+    text-align: center;
+}
+section {
+    background-color: rgb(211, 228, 211);
+    color: black;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nacionalidade</title>
+</head>
+<body>
+    <h1>Países</h1>
+    Em qual país você nasceu? <input type="text" name="pais" id="pais">
+    <input type="button" value="consultar" onclick="consultar()">
+
+    <div id="res"></div>
+
+    <script>
+var txtPais = document.getElementById('pais')
+
+function consultar(){
+var paisDeOrigem = txtPais.value
+var res = document.getElementById('res')
+res.innerHTML = `<p>País em que você nasceu: <strong>${paisDeOrigem}</strong></p>`
+
+if (paisDeOrigem == 'Brasil' || paisDeOrigem == 'brasil' || paisDeOrigem == 'BRASIL') {
+    res.innerHTML += `Portanto, você é brasileiro!`
+} else {
+    res.innerHTML += `Portando, você é estrangeiro`
+}
+}
+
+    </script>
+</body>
+</html>

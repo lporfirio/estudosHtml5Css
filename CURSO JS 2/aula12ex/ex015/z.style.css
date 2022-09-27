@@ -1,0 +1,29 @@
+body {
+    font: normal 16px arial;
+    text-align: center;
+}
+
+header {
+    font-style: italic;
+    color: rgb(107, 32, 32);
+}
+
+section {
+    background-color: rgb(116, 80, 80);
+    color: rgb(243, 234, 236);
+    width: 400px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 14px;
+
+}
+
+input#fnum {
+    font-size: 20px;
+    color: rgb(54, 39, 42);
+}
+
+input#botao {
+    font-size: 17px;
+    color: rgb(54, 39, 42);
+}

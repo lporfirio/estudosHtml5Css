@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(187, 151, 255);
+    color: rgb(255, 255, 255);
+    font: normal 15pt Calibri;
+    text-align: center;
+    padding: 15px;
+}
+
+section {
+    background-color: aliceblue;
+    color: rgb(60, 27, 92);
+    margin: auto;
+    border-radius: 9px;
+    padding: 15px;
+    width: 500px;
+
+}
+
+footer {
+    font-style: italic;
+}
