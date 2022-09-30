@@ -8,11 +8,21 @@
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
+            color: #471577;
         }
 
         table {
             width: 500px;
             border-collapse: collapse;
+            position: relative;
+        }
+
+        caption {
+            padding: 10px;
+            color: #ffffff;
+            text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.404);
+            background-image: linear-gradient(to right, #7d1fd4, transparent );
+            text-align: center;
         }
 
         td, th {
@@ -21,9 +31,25 @@
             color: #7d1fd4;
         }
 
+        tbody > tr:nth-child(even) {
+            background-color: #e5cffafa;
+        }
+
+        thead > tr > th {
+            position: sticky;
+            top: -1%;
+            background-color: #cfa0fa;
+            border-bottom: 1px solid #7d1fd4;
+        }
+
+
         thead, tfoot {
             background-color:#cfa0fa ;
             color: hsl(249, 68%, 16%);
+        }
+
+        td.num, th.num {
+            text-align: right;
         }
     </style>
 </head>
@@ -32,6 +58,7 @@
     <!--
         ANATOMIA PARA TABELAS GRANDES
         TABLE
+            CAPTION
             HEAD
                 TR, TD, TH
             TBODY
@@ -42,10 +69,11 @@
 
     -->
     <table>
+        <caption>População das unidades Federativas</caption>
         <thead>
             <tr>
-                <th>10 maiores Estados</th>
-                <th>População</th>
+                <th scope="col">10 maiores Estados</th>
+                <th scope="col" style="width: 25%;">População</th>
             </tr>
         </thead>
         <tbody>
@@ -78,11 +106,10 @@
                 <td class="num">7.164.788</td>
         </tbody>
         <tfoot>
-            <th id="total">Total de habitantes</th>
-            <th>0000</th>
+            <th scope="row">Total de Habitantes no Brasil</th>
+            <th class="num"><strong>210.234.543</strong></th>
         </tfoot>
-
-
+        
     </table>
     
 </body>
