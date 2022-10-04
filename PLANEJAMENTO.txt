@@ -3,20 +3,20 @@
 sexta 29/09
 > cap 22, aula 0 - ok 
 > cap 22, aula 1 - ok
-> cap 22, aula 2
+> cap 22, aula 2 - ok
 
 sábado 30/09
-> cap 22, aula 3
-> cap 22, aula 4
-> cap 22, aula 5
+> cap 22, aula 3 - ok
+> cap 22, aula 4 - ok
+> cap 22, aula 5 - ok 
 
 domingo 01/10
-> cap 22, aula 6
+> cap 22, aula 6 - ok
 
 segunda 02/10
-> cap 22, aula 7
-> cap 22, aula 8
-> cap 23, aula 1
+> cap 22, aula 7 - ok
+> cap 22, aula 8 - ok
+> cap 23, aula 1 - ok
 
 terça 03/10
 > cap 23, aula 2
@@ -77,3 +77,19 @@ quinta 29/09
 > prova - ok 
 > cap 22, aula 0 - ok  
 > cap 22, aula 1 - ok  
+
+sexta 30/09
+> cap 22, aula 2 - ok
+> cap 22, aula 3 - ok
+> cap 22, aula 4 - ok
+
+sábado 01/10
+> cap 22, aula 5 - ok
+> cap 22, aula 6 - ok
+
+domingo 02/10
+> cap 22, aula 6 - ok
+
+segunda 03/10
+> cap 22, aula 8 - ok
+> cap 23, aula 1 - ok
