@@ -19,24 +19,24 @@ segunda 02/10
 > cap 23, aula 1 - ok
 
 terça 03/10
-> cap 23, aula 2
-> cap 23, aula 3
-> cap 23, aula 4
+> cap 23, aula 2 - ok
+> cap 23, aula 3 - ok
+> cap 23, aula 4 - ok
 
 quarta 04/10
-> cap 23, aula 5
-> cap 23, aula 6
-> cap 23, aula 7
+> cap 23, aula 5 - ok
+> cap 23, aula 6 - ok
+> cap 23, aula 7 - ok
 
 quinta 05/10
-> cap 24, aula 1
-> cap 24, aula 2
-> cap 24, aula 3
+> cap 24, aula 1 - ok
+> cap 24, aula 2 - ok
+> cap 24, aula 3 - ok
 
 sexta 06/10
-> cap 24, aula 4
-> cap 24, aula 5
-> cap 24, aula 6
+> cap 24, aula 4 - ok
+> cap 24, aula 5 - 
+> cap 24, aula 6 -
 
 sábado 07/10
 > cap 24, aula 7
@@ -52,23 +52,6 @@ _________________________________________
 
 AULAS ASSISTIDAS
 
-segunda 26/09
-> cap 21, aula 01 - ok
-> cap 21, aula 02 - ok
-> cap 21, aula 03 - ok
-
-terça 27/09
-> cap 21, aula 04 - ok
-> cap 21, aula 05 - ok
-> cap 21, aula 06 - ok
-
-quarta 28/09
-> cap 21, aula 07 - ok
-> cap 21, aula 08 - ok
-> cap 21, aula 09 - ok
-> cap 21, aula 10 - ok
-> cap 21, aula 11 - ok
-> cap 21, aula 12 - ok
 
 quinta 29/09
 > cap 21, aula 13 - ok
@@ -93,3 +76,22 @@ domingo 02/10
 segunda 03/10
 > cap 22, aula 8 - ok
 > cap 23, aula 1 - ok
+
+terça 04/10
+> cap 23, aula 2 - ok
+> cap 23, aula 3 - ok
+> cap 23, aula 4 - ok
+
+quarta 05/10
+> cap 23, aula 5 - ok
+> cap 23, aula 6 - ok
+> cap 23, aula 7 - ok
+> cap 24, aula 1 - ok
+
+quinta 06/10
+> cap 24, aula 2 - ok
+> cap 24, aula 3 - ok
+> cap 24, aula 4 - ok
+
+sexta 07/10
+>
