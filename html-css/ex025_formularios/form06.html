@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(59, 253, 253);
+            background-color: rgb(47, 44, 63);
+            font-weight: 100;
+            font-size: 15px;
+        }
+        h1 {
+            font-style: italic;
+           /* background-color: #10ff10;*/
+        }
+    </style>
+</head>
+<body>
+    <h1>exemplo de formulário</h1>
+    <form action="cadastro.php" method="pot" autocomplete="on">
+        <p>
+            <label for="icord">Cor:</label>
+            <input type="color" name="cor" id="icor" value="#10ff10">
+        </p>
+        <p>
+            <label for="inivel">Nível de Satisfação:</label>
+            <input type="range" name="nivel" id="inivel" min="1" max="5" value="1">
+        </p>
+        <p>
+            <label for="ifoto">Foto do Perfil:</label> 
+            <!-- para usar o FILE, o método precisa ser o POST-->
+            <input type="file" name="foto" id="ifoto">
+        </p>
+        <p>
+            <input type="submit" value="enviar">
+            <input type="reset" value="limpar">
+        </p>
+    </form>
+</body>
+</html>
