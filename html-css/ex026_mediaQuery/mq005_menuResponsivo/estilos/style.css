@@ -39,6 +39,7 @@ header > h1 {
 menu {
     display: none;
     background-color: #34344A;
+    
 }
 
 menu > ul {
@@ -60,10 +61,11 @@ menu a:hover {
 }
 
 main {
-    width: 90vw;
+    width: 84vw;
     background-color: white;
     margin: auto;
     margin-top: 10px;
+    margin-bottom: 20px;
     padding: 15px;
     border-radius: 15px;
 }

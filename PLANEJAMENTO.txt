@@ -1,4 +1,4 @@
-1 prêmio
+1 prêmios
 
 - COMPLETOU O PLANEJAMENTO DA SEMANA LUQUINHA, PARABÉNS!!!
 
@@ -23,12 +23,12 @@ quinta
 > cap 25, aula 11 - ok
 
 sexta
-> cap 25, aula 12
-> cap 26, aula 01
-> cap 26, aula 02
+> cap 25, aula 12 - ok
+> cap 26, aula 01 - ok 
+> cap 26, aula 02 - ok
 
 sábado
-> cap 26, aula 03
+> cap 26, aula 03 - ok
 
 domingo
 
@@ -39,41 +39,6 @@ _________________________________________
 
 AULAS ASSISTIDAS
 
-
-quinta 29/09
-> cap 21, aula 13 - ok
-> cap 21, aula 14 - ok
-> terminou todos os vídeos do Módulo, Luquinha!!! Parabéns
-> prova - ok 
-> cap 22, aula 0 - ok  
-> cap 22, aula 1 - ok  
-
-sexta 30/09
-> cap 22, aula 2 - ok
-> cap 22, aula 3 - ok
-> cap 22, aula 4 - ok
-
-sábado 01/10
-> cap 22, aula 5 - ok
-> cap 22, aula 6 - ok
-
-domingo 02/10
-> cap 22, aula 6 - ok
-
-segunda 03/10
-> cap 22, aula 8 - ok
-> cap 23, aula 1 - ok
-
-terça 04/10
-> cap 23, aula 2 - ok
-> cap 23, aula 3 - ok
-> cap 23, aula 4 - ok
-
-quarta 05/10
-> cap 23, aula 5 - ok
-> cap 23, aula 6 - ok
-> cap 23, aula 7 - ok
-> cap 24, aula 1 - ok
 
 quinta 06/10
 > cap 24, aula 2 - ok
@@ -107,3 +72,12 @@ terça 11/10
 > cap 25, aula 09 - ok
 > cap 25, aula 10 - ok
 > cap 25, aula 11 - ok
+
+quarta 12/10
+> cap 25, aula 12 - ok
+
+quinta 13/10
+> cap 26, aula 01 - ok 
+
+sexta
+> cap 26, aula 02 - ok 
