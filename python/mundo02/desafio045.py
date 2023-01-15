@@ -6,12 +6,20 @@ pedra > tesoura > papel > pedra
 \033[style;text;back m
 '''
 import random
+import time
 computador = random.choice(['pedra', 'tesoura', 'papel'])
 
 # print(computador)
 
 print('Vamos jogar \033[32mJOKEMPÔ\033[m!!!')
 user = str(input('Digite pedra, papel ou tesoura: '))
+
+time.sleep(1)
+print('JO')
+time.sleep(1)
+print('KEN')
+time.sleep(1)
+print('PÔ')
 
 if user == computador:
     print('\033[30mempatou!\033[m')

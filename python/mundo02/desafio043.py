@@ -9,8 +9,8 @@ Desenvolva uma lógica que leia o peso e altura de uma pessoa, calcule seu IMC e
 
 '''
 
-peso = float(input('Qual seu peso? '))
-altura = float(input('Qual sua altura? '))
+peso = float(input('Qual seu peso? (Kg) '))
+altura = float(input('Qual sua altura? (m) '))
 imc = peso / (altura ** 2)
 
 print('Seu IMC é {:.3f}kg/m²'.format(imc))
@@ -23,7 +23,5 @@ elif imc < 30:
     print('entre 25 até 30: sobrepeso')
 elif imc < 40:
     print('entre 30 até 40: obesidade')
-elif imc < 50:
-    print('acima de 40: obesidade mórbida')
 else:
-    print('dados errados, tente novamente')
+    print('acima de 40: obesidade mórbida')

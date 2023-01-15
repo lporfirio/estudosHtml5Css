@@ -24,6 +24,8 @@ frase.split() -- divide a string(pelos espaços ** padrão), gerando uma lista(a
 '-'.join(frase) -- une as strings.... ficaria Curso-em-Video-Python
  
 
+inverter = frase[::-1] -- inverte a string
+
 '''
 frase = 'Curso em Video Python'
 print(frase[3])
